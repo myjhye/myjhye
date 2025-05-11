@@ -21,8 +21,8 @@
 
 
 ## What I do
-- **AI Integration**: Embedding AI features into web applications using public APIs
-- **Cross-Platform Development**: Developing for both web and mobile with a unified codebase
+- **AI Integration**: Embedding AI features into web applications using OpenAI API
+- **Cross-Platform Development**: Building responsive web applications and mobile apps with React/React Native
 - **Full-Stack Development**: Handling both frontend and backend tasks efficiently
 - **Practical Engineering**: Applying new technologies to solve real-world problems
 
