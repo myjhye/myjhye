@@ -13,17 +13,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white)
 
----
-
-## 🚀 What I Do
-
-- **AI Integration**: Embedding OpenAI API into real services  
-- **Cross-Platform Development**: Web and mobile apps with React & React Native  
-- **Full-Stack Development**: End-to-end feature ownership  
-- **Practical Engineering**: Solving real problems with technology
-
----
-
 ## 📬 Contact
 
 - **Email**: haq017@naver.com  
