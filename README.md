@@ -1,20 +1,56 @@
-## 💻 Tech Stack
+About Me
+========
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
+**실제로 사용되고, 수익을 만들고, 데이터로 검증하는 개발자**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=React&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white)
+React Native와 Python으로 실사용자가 있는 유료 프로덕트를 개발하고 수익화한 경험이 있습니다.\
+사이드 프로젝트를 통해 Spring Boot, Django, React 등 다양한 스택으로 프론트엔드부터 백엔드, 배포까지 전체 사이클을 경험했습니다.
 
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+단순히 기능을 구현하는 것을 넘어, 실제 사용자의 문제를 해결하고 비즈니스 가치를 만드는 것에 집중합니다.\
+라이선스 시스템 설계, API 최적화, 사용자 행동 분석 등 프로덕션 환경에서의 실전 경험을 보유하고 있습니다.
 
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white)
 
-## 📬 Contact
+What I Build & Ship
+===================
 
-- **Email**: haq017@naver.com  
-- **Blog**: [Tech Blog](https://hmmmmmmmmmmmm.tistory.com/)
+1\. 유튜브 벤치마킹 키워드 분석 프로그램 (Desktop App)
+--------------------------------------
+
+**문제 인식**\
+유튜브 크리에이터들이 트렌드 분석을 위해 키워드별 영상 비교가 필요하지만, 플랫폼 UI에서는 조회수-업로드 시점-채널 규모를 한눈에 파악하기 어렵고 수작업 비교에 과도한 시간이 소요됨
+
+**솔루션**
+
+-   키워드 입력 → 관련 영상 자동 수집
+-   조회수, 업로드 시점, 채널 규모 등 핵심 지표 정렬-필터링
+-   실사용자가 "영상 기획 전 필수 도구"로 활용
+
+**기술 스택**\
+Python, PyQt6, YouTube Data API, Google Apps Script (라이선스 시스템)
+
+**기술적 특징**
+
+-   단순 크롤링을 넘어 실제 기획 의사결정에 최적화된 데이터 구조 설계
+-   Google Apps Script 기반 라이선스 검증 시스템 (PC 단위 인증, 오프라인 유예 포함)
+-   실사용자 피드백 기반 지속적인 기능 개선
+
+**수익화**\
+개인 대상 유료 라이선스 판매 (구매 → 발급 → 활성화 전 과정 자체 설계)
+
+
+2\. 토스 앱인토스 미니앱 -- 포켓몬 닮은꼴 찾기
+----------------------------
+
+**목표**\
+"만들어보는 서비스"가 아닌, 실제 유입을 만들고 수익화 가능한 구조를 검증하는 프로젝트
+
+**기술 스택**\
+React Native, 토스 앱인토스 SDK, 광고 플랫폼 연동
+
+**실험 과정**
+
+-   토스 앱인토스 환경 미니앱 개발 및 배포
+-   사용자 행동 데이터 기반 푸시 알림 + 홈 광고 실험
+    -   푸시 알림 문구 A/B 테스트
+    -   홈 광고 CTR(클릭률) 분석
+    -   유입 → 클릭 → 재방문 구조 최적화
